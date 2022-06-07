@@ -20,6 +20,7 @@ The algorithm is based on:
 ![Image 2 Before Applying The Lasso](https://github.com/Amr-Wael-Dev/Algorithms-IntelligentScissors/blob/main/Resources/res3.jpg)
 ![Image 2 After Applying The Lasso](https://github.com/Amr-Wael-Dev/Algorithms-IntelligentScissors/blob/main/Resources/res4.jpg)
 ---
+---
 # Further Reading
 ## Problem Definition
 Selection tools
@@ -35,8 +36,6 @@ The Magnetic Lasso Tool is a lasso that automatically snaps to the objects’ bo
 The technical term for the Magnetic Lasso Tool is Livewire or Intelligent Scissors.
 
 In this project we want to implement a simple magnetic lasso.
-
----
 
 ### Terminologies
 - Livewire: A livewire is defined by two points and a wire (path) between them where an anchor point is a fixed point on the image the user selects at the beginning, and the free point is a moving point following the mouse cursor.
